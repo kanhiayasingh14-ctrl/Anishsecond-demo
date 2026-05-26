@@ -1,4 +1,4 @@
 # Anishsecond-demo
 Just learning
 <br>
-Author :- Anish Singhi
+Author :- Anish Singh
